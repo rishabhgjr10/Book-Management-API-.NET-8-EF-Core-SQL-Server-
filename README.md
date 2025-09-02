@@ -46,9 +46,7 @@ Update-Database
 dotnet run --project BookAPI
 
 
-Swagger UI will open at:
-
-https://localhost:5001/swagger
+Swagger UI will open:
 
 📖 API Endpoints
 Books
